@@ -37,3 +37,6 @@ Users can earn levels and rewards by uploading pothole data
 
 <img src="https://user-images.githubusercontent.com/113666949/203858683-1133b9a5-f239-4807-933d-bdfac0a26170.jpg" width="280" height="500">
 
+![system_diagram](https://user-images.githubusercontent.com/113666949/203859210-74f04421-259e-4a26-aace-486577d2a1ae.png)
+
+
