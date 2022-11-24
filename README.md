@@ -1,20 +1,39 @@
-(https://camo.githubusercontent.com/d0f65430681b67b7104f6130ada8c098ec5f66ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f64652532307374796c652d7374616e646172642d627269676874677265656e2e7376673f7374796c653d666c6174)
-![](https://camo.githubusercontent.com/a307f74a14e41e762300323414ddef81f3d53ae2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f736f757263657265722d696f2f736f757263657265722d6170702e7376673f636f6c6f72423d666630303030)
+# Spotting the Hole 
+## An application for reporting potholes, tracking complaints, communicating with the concerned authorities and also tracking an entire route's status by severity. In other words an app for the people.
+### Purpose of our application
+1.An app that provides a communication channel between authorities and citizens.
 
+2.Prevents accidents and injuries.
 
+3.Providing a cost effective solution for detecting and repairing potholes.
 
+4.Enhances appearances.
 
-## Features (*End goals*)
-* Live Computer Vision using OpenCV
+5.Helps the people from tragic accidents
 
-<img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/pothole-computervision.gif" alt="gif" width="50%">
+## Likely Impact
 
-*  Geocoding/Mapping
+In this fast-moving world, people want to reach their destinations as soon as possible. Some apps suggest the routes which can make us reach our goal early, and other apps show all possible ways with traffic congestion for whatever reason it may be, such as google maps and many more.
 
-<img src="https://github.com/BrianRuizy/2019-Microsoft-IoT-hackathon/blob/master/img/geocoding.png" alt="geocoding" width="50%">
+But there are fewer apps that tell the condition of the road, whether it is good to travel or not, whether it suggests the route to the driver based on the state of the way. So this model mainly focuses on the travel safety of the passengers and updates the passengers with the best route to travel.
 
-## Contributors
-[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/0)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/0)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/1)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/1)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/2)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/2)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/3)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/3)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/4)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/4)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/5)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/5)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/6)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/6)[![](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/images/7)](https://sourcerer.io/fame/BrianRuizy/BrianRuizy/2019-Microsoft-IoT-hackathon/links/7)
+# Pothole alerts
+Provides real time alerts while you are travelling
 
-------
+<img src="https://user-images.githubusercontent.com/113666949/203858224-c2f8db4d-4fb9-424b-a19e-9f4dc9b340d1.jpg" width="280" height="500">
+
+# Report a pothole
+Users can report a pothole by sharing its image and location
+
+<img src="https://user-images.githubusercontent.com/113666949/203858501-ae5a1d58-3927-4ff6-ba0f-6ed47d507903.jpg" width="280" height="500">
+
+# Community 
+Top post will be highlighted here, which will be helpful for local authorites to resolve it quickly
+
+<img src="https://user-images.githubusercontent.com/113666949/203858594-e6f1310f-7002-43c6-b2db-df14c74f2364.jpg" width="280" height="500">
+
+# Levels and rewards
+Users can earn levels and rewards by uploading pothole data
+
+<img src="https://user-images.githubusercontent.com/113666949/203858683-1133b9a5-f239-4807-933d-bdfac0a26170.jpg" width="280" height="500">
 
